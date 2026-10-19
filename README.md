@@ -26,3 +26,7 @@ The project uses a bank loan application dataset containing applicant details, i
 
 ## Author
 Sanika Shinde
+
+## Dashboard Preview
+
+![Bank Loan Analysis Dashboard](<escape>bank loan analysis dashboard.PNG</escape>)
