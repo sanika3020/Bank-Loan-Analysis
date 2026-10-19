@@ -29,4 +29,4 @@ Sanika Shinde
 
 ## Dashboard Preview
 
-![Bank Loan Analysis Dashboard](<escape>bank loan analysis dashboard.PNG</escape>)
+![Bank Loan Analysis Dashboard](bank%20loan%20analysis%20dashboard.PNG)
